@@ -1,0 +1,35 @@
+<!-- PLACEHOLDER — substituir por foto real (ambiente executado com luz quente e natural, formato retrato 4:5) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EBE1D2"/><stop offset="1" stop-color="#DDCFBA"/>
+    </linearGradient>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FBF5EA"/><stop offset="1" stop-color="#EFE2CB"/>
+    </linearGradient>
+    <radialGradient id="g" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFE7BC" stop-opacity="0.95"/><stop offset="1" stop-color="#FFE7BC" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="b"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="800" height="1000" fill="url(#w)"/>
+  <!-- janela alta com luz natural -->
+  <rect x="470" y="90" width="250" height="620" fill="#CDBCA1"/>
+  <rect x="482" y="102" width="226" height="596" fill="url(#win)"/>
+  <line x1="595" y1="102" x2="595" y2="698" stroke="#CDBCA1" stroke-width="6"/>
+  <polygon points="482,698 708,698 600,1000 300,1000" fill="#FFF4E2" opacity="0.5" filter="url(#b)"/>
+  <!-- pendentes sobre a mesa -->
+  <g stroke="#6B6259" stroke-width="1.5">
+    <line x1="210" y1="0" x2="210" y2="430"/><line x1="330" y1="0" x2="330" y2="390"/>
+  </g>
+  <circle cx="210" cy="470" r="90" fill="url(#g)"/>
+  <circle cx="330" cy="430" r="90" fill="url(#g)"/>
+  <circle cx="210" cy="452" r="26" fill="#F3E6CF"/>
+  <circle cx="330" cy="412" r="26" fill="#F3E6CF"/>
+  <!-- mesa -->
+  <rect x="60" y="690" width="430" height="20" fill="#9C845F"/>
+  <rect x="90" y="710" width="12" height="190" fill="#8E7754"/>
+  <rect x="450" y="710" width="12" height="190" fill="#8E7754"/>
+  <ellipse cx="270" cy="694" rx="200" ry="22" fill="#FFEBC6" opacity="0.7" filter="url(#b)"/>
+  <rect x="0" y="900" width="800" height="100" fill="#D3C2A7"/>
+</svg>
