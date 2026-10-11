@@ -22,8 +22,9 @@ skills de LinkedIn deste projeto leem este arquivo. Itens marcados com
   horizontal, atendimento e antifraude.
 - **Núcleo dos posts:** atendimento, CX, canais, funil e jornada. Produtos,
   crédito e cobrança entram como escopo ampliado, não como tema principal.
-- **Para quem eu escrevo:** recrutadores e lideranças de bancos e fintechs,
-  executivos de produto, CX, atendimento e vendas.
+- **Para quem eu escrevo:** recrutadores e lideranças que contratam Head,
+  Superintendente ou Diretor de Atendimento ao Cliente, CX e Canais de
+  Vendas, e executivos dessas áreas em bancos, fintechs e grandes empresas.
 - **Objetivo no LinkedIn:** posicionamento executivo. A busca por emprego
   está visível só para recrutadores: **nunca** mencionar busca de
   oportunidades em post ou texto público.

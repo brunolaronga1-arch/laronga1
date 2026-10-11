@@ -2,27 +2,34 @@
 
 Rascunhos gerados com /li-profile. Nada foi publicado: cole cada seção no LinkedIn.
 
-## Título
+Alvo: recrutadores de vagas de Head, Superintendente e Diretor de Atendimento ao Cliente, CX e Canais de Vendas.
+
+## Título (opção recomendada)
 
 ```
-Diretor de Customer Service, CX e Produtos Financeiros | Atendimento, canais, funil de vendas e jornada do cliente em bancos e fintechs | Qualidade de 20% para 80% em 5 meses | R$ 3 mi/mês em vendas pelo atendimento
+Diretor de Atendimento ao Cliente, CX e Canais de Vendas | Customer Service e Customer Experience em bancos e fintechs | Custo de atendimento -67% e qualidade de 20% para 80% | R$ 50 mi em receita
+```
+
+## Título (alternativa)
+
+```
+Head de Customer Service e CX | Atendimento ao cliente, canais de vendas e omnichannel | Citi, Itaú, Santander e PaGol | Custo de atendimento -67% e R$ 3 mi/mês em vendas pelo atendimento
 ```
 
 ## Sobre
 
 ```
-Executivo de atendimento e experiência do cliente. Há mais de 20 anos desenho canais, funis de vendas e jornadas que entregam qualidade e receita ao mesmo tempo.
+Executivo de atendimento ao cliente, experiência do cliente e canais de vendas. Há mais de 20 anos desenho operações em que o atendimento gera qualidade e receita ao mesmo tempo.
 
-Ao longo da carreira, em bancos e fintechs como Citi, Itaú Unibanco, Santander e PaGol, fui absorvendo escopo: vendas, canais digitais, produtos financeiros, crédito, cobrança e antifraude. Isso me deu visão da estratégia à execução. Hoje sou Diretor de Produtos, Customer Service e CX na PaGol.
+Comecei na central de atendimento, acompanhando TMA, nível de serviço e FCR, e fui absorvendo escopo em Citi, Itaú Unibanco, Santander e PaGol: vendas, canais digitais, produtos, crédito, cobrança e antifraude. Isso me deu visão da estratégia à execução. Hoje sou Diretor de Produtos, Customer Service e CX na PaGol.
 
 Onde eu gero valor:
-• Atendimento e CX: operações omnichannel que escalam sem aumentar custo. Custo de atendimento 67% menor e qualidade de 20% para 80% em cinco meses, sem aumentar o time.
-• Canais e funil de vendas: atendimento que vira receita, com mais de R$ 3 milhões por mês em vendas de crédito pelo atendimento.
-• Jornada do cliente: processos revistos de ponta a ponta para reduzir atrito. A nota do Reclame Aqui foi de 5 para 8.
-• Escopo atual: na vertical, respondo pela conta digital PF e PJ, com a conta PF integrada ao programa de milhas, e por produtos digitais como o boleto parcelado. Na horizontal, por atendimento e antifraude.
-• Crédito e cobrança: criei do zero o Canal Leilão CTPS Digital, que chegou a R$ 1,5 milhão por mês em cinco meses. Também reduzi a PDD de 3% para 1,5% e acompanhei mais de R$ 200 milhões em carteira originada.
-• Gestão: redes com mais de 300 profissionais, orçamento de R$ 30 milhões por ano e contribuição direta para R$ 50,4 milhões em receita em 2024.
-• América Latina: no Citi, representei o Brasil em fóruns regionais e levei práticas de vendas para a operação da Colômbia, com +44% de conversão.
+• Atendimento ao cliente: operação omnichannel com 7 canais integrados, 24x7 e aderente ao SAC. Custo de atendimento 67% menor e qualidade de 20% para 80% em cinco meses, sem aumentar o time.
+• Experiência do cliente: jornadas revistas de ponta a ponta, Voz do Cliente e revisão de NPS e CSAT. Nota do Reclame Aqui de 5 para 8.
+• Canais de vendas: atendimento que vira receita. Mais de R$ 3 milhões por mês em vendas de crédito pelo atendimento, +47% de conversão no Itaú e um canal digital criado do zero que chegou a R$ 1,5 milhão por mês.
+• Gestão de operações e BPOs: redes com mais de 300 profissionais, orçamento de R$ 30 milhões por ano e contribuição direta para R$ 50,4 milhões em receita em 2024.
+• América Latina: no Citi, representei o Brasil em fóruns regionais e levei práticas de vendas para a Colômbia, com +44% de conversão.
+• Escopo atual: atendimento e antifraude na horizontal; conta digital PF e PJ e produtos digitais na vertical.
 
 Inglês avançado e espanhol intermediário. MBA ESPM em Gestão Estratégica de Mercados. Cursando AI Journey (StartSe).
 ```
@@ -30,13 +37,13 @@ Inglês avançado e espanhol intermediário. MBA ESPM em Gestão Estratégica de
 ## PaGol - Director of Products, Customer Service & CX (jun 2025 - atual)
 
 ```
-Diretor responsável, na vertical, pela conta digital PF e PJ e por produtos digitais como o boleto parcelado e, na horizontal, por atendimento e antifraude. Membro do COMEX. Nesta função, também respondi por crédito e cobrança.
+Diretor responsável, na horizontal, por atendimento e antifraude e, na vertical, pela conta digital PF e PJ e por produtos digitais como o boleto parcelado. Membro do COMEX. Nesta função, também respondi por crédito e cobrança.
 
-• Canal Leilão CTPS Digital: implementação de ponta a ponta, da jornada digital do trabalhador à esteira de crédito (capacidade de pagamento, modelagem de risco, política, motor de decisão e governança regulatória). Criado do zero, gerou R$ 1,5 milhão por mês nos primeiros cinco meses, com capacidade de 2.000 propostas por dia.
-• Cobrança: novo framework que reduziu a PDD de 3% para 1,5%, com picos de 0,6%, e recuperou R$ 700 mil em operações com problemas de lastro.
-• Carteira de crédito: acompanhamento de mais de R$ 200 milhões em carteira originada, junto à gestora do fundo.
+• Atendimento: evolução da operação omnichannel (chat, WhatsApp, chatbot e bots) sob escopo ampliado para produtos, crédito e cobrança.
+• Canal de vendas digital: criei do zero o Canal Leilão CTPS Digital, da jornada do trabalhador à esteira de crédito. Gerou R$ 1,5 milhão por mês nos primeiros cinco meses, com capacidade de 2.000 propostas por dia.
 • Conta digital PF e PJ: desenho dos fluxos e PMO de implantação, com a conta PF integrada ao programa de milhas.
 • Automação: desenho do processo de cancelamento do boleto parcelado, depois automatizado em n8n.
+• Cobrança: novo framework que reduziu a PDD de 3% para 1,5% e recuperou R$ 700 mil em operações com problemas de lastro, com acompanhamento de mais de R$ 200 milhões em carteira originada.
 • Representação: porta-voz da PaGol na Associação Brasileira de Crédito Digital (ABCD) e apresentação de resultados a investidores.
 ```
 
