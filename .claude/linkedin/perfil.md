@@ -21,7 +21,7 @@ Head de Customer Service e CX | Atendimento ao cliente, canais de vendas e omnic
 ```
 Executivo de Customer Service, Customer Experience (CX) e canais de vendas, com mais de 20 anos em serviços financeiros: Citi, Itaú Unibanco, Santander e PaGol.
 
-Trato o atendimento como alavanca de negócio, com retenção, receita e eficiência dentro da mesma operação. Construí essa visão de dentro para fora: comecei no contact center e fui ganhando escopo (vendas, canais digitais, produtos, crédito, cobrança e antifraude) até a diretoria e o COMEX da PaGol. Hoje respondo por atendimento e antifraude e pelas verticais de conta digital PF e PJ e produtos digitais.
+Meu diferencial é a visão integrada do ciclo de vida do cliente, da aquisição ao pós-venda, numa estratégia única e executável. Construí essa visão de dentro para fora: comecei no contact center e fui ganhando escopo (vendas, canais digitais, produtos, crédito, cobrança e antifraude) até a diretoria e o COMEX da PaGol. Hoje respondo por atendimento e antifraude e pelas verticais de conta digital PF e PJ e produtos digitais.
 
 Áreas de atuação:
 • Customer Service e contact center: operação omnichannel, gestão de BPOs e SLAs, autoatendimento, IA e automação, redução de cost-to-serve.
@@ -31,7 +31,7 @@ Trato o atendimento como alavanca de negócio, com retenção, receita e eficiê
 
 Marcos de carreira:
 • Receita: R$ 50,4 milhões em 2024 na PaGol e um canal digital de vendas criado do zero que chegou a R$ 1,5 milhão por mês.
-• Eficiência e qualidade: custo de atendimento 67% menor (de R$ 300 mil para R$ 100 mil por mês), qualidade de 20% para 80% em cinco meses e nota do Reclame Aqui de 5 para 8.
+• Eficiência e qualidade: custo de atendimento 67% menor, qualidade de 20% para 80% em cinco meses e nota do Reclame Aqui de 5 para 8.
 • Conversão: +47% em vendas no Itaú Unibanco, onde também implantei speech analytics em 100% das interações. No Santander, a estratégia de Multioferta triplicou as oportunidades de venda.
 • Crédito e cobrança: carteira originada de mais de R$ 200 milhões e PDD reduzida de 3% para 1,5%.
 • Escala: redes com mais de 300 profissionais e orçamento de R$ 30 milhões por ano.
