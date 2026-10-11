@@ -90,3 +90,25 @@ Planejamento comercial do canal de atendimento e representante do Brasil em fór
 • Forecast: modelos com 98% de acurácia sobre um portfólio de 12 produtos.
 • Performance: metodologia 9Box, com até +30% de conversão nas equipes de menor resultado.
 ```
+
+## Cargos (campo "Cargo")
+
+- PaGol, atual: `Diretor de Atendimento ao Cliente, CX e Produtos | Customer Service & CX Director`
+- PaGol, 2023-2025: `Head de Atendimento ao Cliente, CX e Vendas | Head of Customer Service & CX`
+- Citibank, 2014-2018: `Gerente de Planejamento Comercial | Sales Planning Manager`
+
+## Competências
+
+Principais (fixar estas 5, nesta ordem):
+1. Atendimento ao cliente
+2. Experiência do cliente
+3. Gestão de call center
+4. Gestão de vendas
+5. Liderança de equipe
+
+Atendimento e operações: Customer Service, Contact center, Omnichannel, Gestão de fornecedores (BPO), Acordos de nível de serviço (SLA), Gestão da qualidade, Chatbots, URA, Autoatendimento, Melhoria de processos, Lean.
+Experiência do cliente: Customer Experience, Jornada do cliente, Voz do cliente, Net Promoter Score (NPS), Satisfação do cliente (CSAT), Retenção de clientes, CRM, Speech analytics.
+Vendas e canais: Estratégia de vendas, Canais de vendas, Televendas, Cross-selling, Funil de vendas, Growth, Planejamento comercial, Previsão de vendas, Remuneração variável.
+Produtos financeiros: Serviços financeiros, Produtos financeiros, Crédito, Crédito consignado, Cobrança, Recuperação de crédito, Gestão de carteira, Prevenção a fraudes, Conta digital, Programas de fidelidade, Fintech.
+Gestão: Liderança executiva, Gestão de stakeholders, Governança, OKR, Indicadores de desempenho (KPIs), Gestão orçamentária, Gestão de projetos (PMO), Transformação digital, Análise de dados.
+IA e automação: Inteligência artificial, IA generativa, Automação de processos, n8n, No-code.
