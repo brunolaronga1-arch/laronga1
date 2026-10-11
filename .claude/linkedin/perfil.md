@@ -19,15 +19,17 @@ Head de Customer Service e CX | Atendimento ao cliente, canais de vendas e omnic
 ## Sobre
 
 ```
-Executivo de atendimento ao cliente, experiência do cliente e canais de vendas, com mais de 20 anos em serviços financeiros: Citi, Itaú Unibanco, Santander e PaGol.
+Executivo de Customer Service, Customer Experience (CX) e canais de vendas, com mais de 20 anos em serviços financeiros: Citi, Itaú Unibanco, Santander e PaGol.
 
-Trato o atendimento como alavanca de negócio: uma operação que retém clientes, gera receita e reduz custo ao mesmo tempo. Comecei na operação e fui ganhando escopo (vendas, canais digitais, produtos, crédito, cobrança e antifraude) até a diretoria e o COMEX da PaGol, onde hoje respondo por atendimento e antifraude e pelas verticais de conta digital PF e PJ e produtos digitais.
+Trato o atendimento como alavanca de negócio, com retenção, receita e eficiência dentro da mesma operação. Construí essa visão de dentro para fora: comecei no contact center e fui ganhando escopo (vendas, canais digitais, produtos, crédito, cobrança e antifraude) até a diretoria e o COMEX da PaGol. Hoje respondo por atendimento e antifraude e pelas verticais de conta digital PF e PJ e produtos digitais.
 
-Resultados que resumem essa visão:
-• R$ 50,4 milhões em receita em 2024, via growth e vendas.
-• Custo de atendimento 67% menor, com a qualidade subindo de 20% para 80% em cinco meses.
-• Um canal digital de vendas criado do zero, que chegou a R$ 1,5 milhão por mês.
-• Times e redes com mais de 300 profissionais e orçamento de R$ 30 milhões por ano.
+Áreas de atuação:
+• Customer Service e contact center: operação omnichannel, gestão de BPOs e SLAs, autoatendimento, IA e automação, redução de cost-to-serve.
+• Customer Experience: jornada do cliente, Voz do Cliente (VoC), NPS e CSAT, redução de atrito e retenção da base.
+• Canais de vendas: atendimento como canal de receita, cross-sell e Next Best Offer, canais digitais e conversão de funil.
+• Gestão: governança, OKRs e analytics, gestão orçamentária, liderança de times próprios e redes de parceiros.
+
+Alguns marcos: R$ 50,4 milhões em receita em 2024, custo de atendimento 67% menor e um canal digital de vendas criado do zero que chegou a R$ 1,5 milhão por mês.
 
 Atuo na interface com investidores, mercado e lideranças regionais: apresento resultados a investidores, represento a PaGol na Associação Brasileira de Crédito Digital e, no Citi, representei o Brasil em fóruns da América Latina.
 
