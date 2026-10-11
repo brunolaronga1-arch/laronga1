@@ -50,28 +50,30 @@ Contato: brunolaronga1@gmail.com
 ## PaGol - Director of Products, Customer Service & CX (jun 2025 - atual)
 
 ```
-Diretor responsável, na horizontal, por atendimento e antifraude e, na vertical, pela conta digital PF e PJ e por produtos digitais como o boleto parcelado. Membro do COMEX. Nesta função, também respondi por crédito e cobrança.
+Membro do COMEX. Respondo, na horizontal, por atendimento e antifraude, que servem todas as linhas de negócio, e, na vertical, pela conta digital PF e PJ e por produtos digitais como o boleto parcelado. Nesta função, também liderei crédito e cobrança.
 
-• Atendimento: evolução da operação omnichannel (chat, WhatsApp, chatbot e bots) sob escopo ampliado para produtos, crédito e cobrança.
-• Canal de vendas digital: criei do zero o Canal Leilão CTPS Digital, da jornada do trabalhador à esteira de crédito. Gerou R$ 1,5 milhão por mês nos primeiros cinco meses, com capacidade de 2.000 propostas por dia.
-• Conta digital PF e PJ: desenho dos fluxos e PMO de implantação, com a conta PF integrada ao programa de milhas.
-• Automação: desenho do processo de cancelamento do boleto parcelado, depois automatizado em n8n.
-• Cobrança: novo framework que reduziu a PDD de 3% para 1,5% e recuperou R$ 700 mil em operações com problemas de lastro, com acompanhamento de mais de R$ 200 milhões em carteira originada.
-• Representação: porta-voz da PaGol na Associação Brasileira de Crédito Digital (ABCD) e apresentação de resultados a investidores.
+• Atendimento e CX: evolução da operação omnichannel (chat, WhatsApp, chatbot e bots) para absorver o escopo ampliado de produtos, crédito e cobrança.
+• Canal de vendas digital: criação do Canal Leilão CTPS Digital de ponta a ponta, da jornada do trabalhador à esteira de crédito (capacidade de pagamento, modelagem de risco, política, motor de decisão e governança regulatória). R$ 1,5 milhão por mês nos primeiros cinco meses e capacidade para 2.000 propostas por dia.
+• Conta digital PF e PJ: desenho dos fluxos e PMO de implantação, com a conta PF integrada ao programa de fidelidade em milhas.
+• Cobrança e carteira: framework de cobrança que reduziu a PDD de 3% para 1,5%, com picos de 0,6%, e recuperou R$ 700 mil em operações com problemas de lastro. Acompanhamento de carteira originada de mais de R$ 200 milhões junto à gestora do fundo.
+• Automação: processo de cancelamento do boleto parcelado redesenhado e automatizado em n8n.
+• Governança e mercado: integração de produto, crédito, cobrança, atendimento e analytics no COMEX, apresentação de resultados a investidores e representação da PaGol na Associação Brasileira de Crédito Digital (ABCD).
 ```
 
 ## PaGol - Head of Customer Service (mar 2023 - jun 2025)
 
 ```
-Membro do COMEX, responsável por Customer Service, CX e Vendas, com foco em retenção, crescimento e monetização da base.
+Membro do COMEX, responsável por Customer Service, Customer Experience, Vendas e Canais Digitais, com foco em retenção, crescimento e monetização de uma base de mais de 260 mil contas.
 
-• Receita: contribuição direta de R$ 50,4 milhões em 2024, via growth e vendas.
-• Eficiência: custo de atendimento de R$ 300 mil para R$ 100 mil por mês (queda de 67%), com a consolidação de 2 BPOs em 1, chatbot e automação.
-• Qualidade: de 20% para 80% em cinco meses, sem aumentar o time. Nota do Reclame Aqui de 5 para 8.
-• Omnichannel: 7 canais integrados com CRM único e atendimento 24x7 aderente ao SAC, sem aumento proporcional de custo.
-• Chat no app: retenção de 51% das interações no próprio canal e custo por contato 20% menor.
-• Vendas pelo atendimento: mais de R$ 3 milhões por mês em vendas de crédito. No canal próprio do Crédito do Trabalhador, desenhei a jornada de vendas e a operação comercial integrada à esteira de crédito.
-• Voz do Cliente: escuta estruturada com reportes executivos mensais, contribuindo para reter uma base de 260 mil contas.
+• Receita: R$ 50,4 milhões em 2024. Contribuição direta via growth e vendas, com mais de R$ 3 milhões por mês em vendas de crédito pelo canal de atendimento especializado.
+• Eficiência: custo de atendimento 67% menor. Saiu de R$ 300 mil para R$ 100 mil por mês com a consolidação de 2 BPOs em 1, chatbot, automação de processos e revisão operacional.
+• Qualidade: de 20% para 80% em cinco meses, sem aumentar o headcount. Reclame Aqui de 5 para 8.
+• Omnichannel: 7 canais integrados com visão única do cliente em CRM centralizado, procedimentos padronizados e atendimento 24x7 aderente ao SAC, sem aumento proporcional de custo.
+• Chat no app: 51% das interações retidas no canal. Custo por contato 20% menor.
+• WhatsApp para vendas e pós-venda, do desenho da jornada às integrações sistêmicas e ao treinamento da central.
+• Crédito do Trabalhador: jornada de vendas, operação comercial e régua de comunicação no canal próprio, integradas à esteira de crédito.
+• Gestão de performance: framework de KPIs (TMA, TMO, nível de serviço, abandono, FCR, ocupação e aderência à escala) e modelo de remuneração variável para atendimento e vendas.
+• Retenção: estratégias de relacionamento que contribuíram para a venda de 700 milhões de milhas em 2025, apoiadas por Voz do Cliente com reportes executivos mensais.
 ```
 
 ## Citibank - Gerente de Planejamento Comercial (2014 - 2018)
