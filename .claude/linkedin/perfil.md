@@ -50,15 +50,17 @@ Contato: brunolaronga1@gmail.com
 ## PaGol - Director of Products, Customer Service & CX (jun 2025 - atual)
 
 ```
-Membro do COMEX. Respondo, na horizontal, por atendimento e antifraude, que servem todas as linhas de negócio, e, na vertical, pela conta digital PF e PJ e por produtos digitais como o boleto parcelado. Ao assumir a diretoria, incorporei também crédito e cobrança, que depois saíram do meu escopo.
+Atuação focada na transformação de operações de atendimento e produtos financeiros, conectando experiência do cliente, digitalização, eficiência operacional e resultados de negócio. Membro do COMEX, respondo na horizontal por atendimento e antifraude e, na vertical, pela conta digital PF e PJ e por produtos digitais como o boleto parcelado. Ao assumir a diretoria, incorporei também crédito e cobrança, que depois saíram do meu escopo.
 
-• Atendimento e CX: evoluí a operação omnichannel (chat, WhatsApp, chatbot e bots) para sustentar o escopo ampliado da diretoria.
-• Conta digital PF e PJ: conduzo o desenho dos fluxos e o PMO de implantação, com a conta PF integrada desde a origem ao programa de milhas.
-• Produtos de crédito: liderei o lançamento do Crédito do Trabalhador, o novo consignado privado, de ponta a ponta. Política de crédito, scoring, cálculo de capacidade de pagamento, modelagem de risco, motor de decisão e governança regulatória, tanto para os canais próprios quanto para o leilão da CTPS Digital.
-• Canal Leilão CTPS Digital: criei o canal do zero, da jornada digital do trabalhador à esteira de crédito. Em cinco meses, R$ 1,5 milhão por mês, com capacidade para 2.000 propostas por dia.
-• Carteira e cobrança: acompanhei, junto à gestora do fundo, mais de R$ 200 milhões em carteira originada. Sob minha gestão, o novo framework de cobrança reduziu a PDD de 3% para 1,5%, com picos de 0,6%, e recuperou R$ 700 mil em operações com problemas de lastro.
-• Automação: redesenhei o cancelamento do boleto parcelado e o automatizei em n8n.
-• Governança e mercado: levo produto, crédito, atendimento e analytics para a pauta do COMEX, apresento resultados a investidores e represento a PaGol na Associação Brasileira de Crédito Digital (ABCD).
+• Produtos Financeiros e Crédito: lancei o Crédito do Trabalhador, com jornadas, políticas, scoring e governança regulatória para canais próprios e para o leilão da CTPS Digital. O Canal Leilão CTPS Digital, que criei do zero, chegou a R$ 1,5 milhão por mês em cinco meses. Capacidade: 2.000 propostas por dia.
+• Cobrança e Recuperação: implantei um novo framework de estratégias de cobrança e recuperação. A PDD caiu de 3% para 1,5%. Picos de 0,6%.
+• Carteira de FIDC: mais de R$ 200 milhões originados, acompanhados junto à gestora do fundo, e R$ 700 mil recuperados em operações com problemas de lastro.
+• Conta Digital PF e PJ: desenho dos fluxos e PMO de implantação. A conta PF nasce integrada ao programa de milhas.
+• CX e Estratégia de Atendimento: liderança da operação omnichannel, com chat, WhatsApp e chatbots no atendimento.
+• Transformação de Jornadas: revisão de processos e evolução da jornada do cliente, integrando atendimento, pós-venda e operações para reduzir atritos.
+• Gestão de Operações e BPOs: governança das operações terceirizadas por SLA.
+• Transformação Digital e Automação: canais digitais, autoatendimento e automações para dar escala ao atendimento, como o cancelamento do boleto parcelado, que redesenhei e automatizei em n8n.
+• Performance e Analytics: indicadores, OKRs e governança orientada por dados. Levo esses resultados a investidores e represento a PaGol na Associação Brasileira de Crédito Digital (ABCD).
 ```
 
 ## PaGol - Head of Customer Service (mar 2023 - jun 2025)
