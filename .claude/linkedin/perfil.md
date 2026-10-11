@@ -29,13 +29,22 @@ Trato o atendimento como alavanca de negócio, com retenção, receita e eficiê
 • Canais de vendas: atendimento como canal de receita, cross-sell e Next Best Offer, canais digitais e conversão de funil.
 • Gestão: governança, OKRs e analytics, gestão orçamentária, liderança de times próprios e redes de parceiros.
 
-Alguns marcos: R$ 50,4 milhões em receita em 2024, custo de atendimento 67% menor e um canal digital de vendas criado do zero que chegou a R$ 1,5 milhão por mês.
+Marcos de carreira:
+• Receita: R$ 50,4 milhões em 2024 na PaGol e um canal digital de vendas criado do zero que chegou a R$ 1,5 milhão por mês.
+• Eficiência e qualidade: custo de atendimento 67% menor (de R$ 300 mil para R$ 100 mil por mês), qualidade de 20% para 80% em cinco meses e nota do Reclame Aqui de 5 para 8.
+• Conversão: +47% em vendas no Itaú Unibanco, onde também implantei speech analytics em 100% das interações. No Santander, a estratégia de Multioferta triplicou as oportunidades de venda.
+• Crédito e cobrança: carteira originada de mais de R$ 200 milhões e PDD reduzida de 3% para 1,5%.
+• Escala: redes com mais de 300 profissionais e orçamento de R$ 30 milhões por ano.
 
-Atuo na interface com investidores e mercado: apresento resultados a investidores e represento a PaGol na Associação Brasileira de Crédito Digital (ABCD).
+Na PaGol, apresento resultados a investidores e represento a empresa na Associação Brasileira de Crédito Digital (ABCD).
 
-Experiência internacional: no Citi, representei o Brasil em fóruns regionais da América Latina, na Argentina, e levei práticas de vendas para a operação da Colômbia, com +44% de conversão.
+Experiência internacional: no Citi, representei o Brasil em fóruns regionais da América Latina, na Argentina, e levei práticas de vendas para a operação da Colômbia, com +44% de conversão. Programa de líderes do Citi em Fort Lauderdale (EUA).
 
-Inglês avançado e espanhol intermediário. MBA ESPM em Gestão Estratégica de Mercados.
+IA na prática: uso GPT, Claude e Gemini no dia a dia, prototipo fluxos de negócio no Lovable e automatizei em n8n o processo de cancelamento do boleto parcelado. Cursando AI Journey (StartSe).
+
+Formação: Publicidade e Propaganda (Metodista), MBA em Gestão Estratégica de Mercados (ESPM) e cursos de growth, canais de vendas e remuneração variável (G4 Educação). Inglês avançado e espanhol intermediário.
+
+Contato: brunolaronga1@gmail.com
 ```
 
 ## PaGol - Director of Products, Customer Service & CX (jun 2025 - atual)
