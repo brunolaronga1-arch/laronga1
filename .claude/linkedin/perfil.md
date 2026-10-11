@@ -19,19 +19,19 @@ Head de Customer Service e CX | Atendimento ao cliente, canais de vendas e omnic
 ## Sobre
 
 ```
-Executivo de atendimento ao cliente, experiência do cliente e canais de vendas. Há mais de 20 anos desenho operações em que o atendimento gera qualidade e receita ao mesmo tempo.
+Executivo de atendimento ao cliente, experiência do cliente e canais de vendas, com mais de 20 anos em serviços financeiros: Citi, Itaú Unibanco, Santander e PaGol.
 
-Comecei na central de atendimento, acompanhando TMA, nível de serviço e FCR, e fui absorvendo escopo em Citi, Itaú Unibanco, Santander e PaGol: vendas, canais digitais, produtos, crédito, cobrança e antifraude. Isso me deu visão da estratégia à execução. Hoje sou Diretor de Produtos, Customer Service e CX na PaGol.
+Trato o atendimento como alavanca de negócio: uma operação que retém clientes, gera receita e reduz custo ao mesmo tempo. Comecei na operação e fui ganhando escopo (vendas, canais digitais, produtos, crédito, cobrança e antifraude) até a diretoria e o COMEX da PaGol, onde hoje respondo por atendimento e antifraude e pelas verticais de conta digital PF e PJ e produtos digitais.
 
-Onde eu gero valor:
-• Atendimento ao cliente: operação omnichannel com 7 canais integrados, 24x7 e aderente ao SAC. Custo de atendimento 67% menor e qualidade de 20% para 80% em cinco meses, sem aumentar o time.
-• Experiência do cliente: jornadas revistas de ponta a ponta, Voz do Cliente e revisão de NPS e CSAT. Nota do Reclame Aqui de 5 para 8.
-• Canais de vendas: atendimento que vira receita. Mais de R$ 3 milhões por mês em vendas de crédito pelo atendimento, +47% de conversão no Itaú e um canal digital criado do zero que chegou a R$ 1,5 milhão por mês.
-• Gestão de operações e BPOs: redes com mais de 300 profissionais, orçamento de R$ 30 milhões por ano e contribuição direta para R$ 50,4 milhões em receita em 2024.
-• América Latina: no Citi, representei o Brasil em fóruns regionais e levei práticas de vendas para a Colômbia, com +44% de conversão.
-• Escopo atual: atendimento e antifraude na horizontal; conta digital PF e PJ e produtos digitais na vertical.
+Resultados que resumem essa visão:
+• R$ 50,4 milhões em receita em 2024, via growth e vendas.
+• Custo de atendimento 67% menor, com a qualidade subindo de 20% para 80% em cinco meses.
+• Um canal digital de vendas criado do zero, que chegou a R$ 1,5 milhão por mês.
+• Times e redes com mais de 300 profissionais e orçamento de R$ 30 milhões por ano.
 
-Inglês avançado e espanhol intermediário. MBA ESPM em Gestão Estratégica de Mercados. Cursando AI Journey (StartSe).
+Atuo na interface com investidores, mercado e lideranças regionais: apresento resultados a investidores, represento a PaGol na Associação Brasileira de Crédito Digital e, no Citi, representei o Brasil em fóruns da América Latina.
+
+Inglês avançado e espanhol intermediário. MBA ESPM em Gestão Estratégica de Mercados.
 ```
 
 ## PaGol - Director of Products, Customer Service & CX (jun 2025 - atual)
