@@ -17,6 +17,9 @@ skills de LinkedIn deste projeto leem este arquivo. Itens marcados com
   e cobrança, o que me deu visão da estratégia à execução. Hoje Diretor de
   Produtos, Customer Service e CX na PaGol; mais de 20 anos em Citi, Itaú
   Unibanco, Santander e PaGol.
+- **Escopo atual:** na vertical, conta digital PF e PJ (PF integrada ao
+  programa de milhas) e produtos digitais (boleto parcelado); na
+  horizontal, atendimento e antifraude.
 - **Núcleo dos posts:** atendimento, CX, canais, funil e jornada. Produtos,
   crédito e cobrança entram como escopo ampliado, não como tema principal.
 - **Para quem eu escrevo:** recrutadores e lideranças de bancos e fintechs,
