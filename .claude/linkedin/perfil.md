@@ -52,12 +52,12 @@ Contato: brunolaronga1@gmail.com
 ```
 Membro do COMEX. Respondo, na horizontal, por atendimento e antifraude, que servem todas as linhas de negócio, e, na vertical, pela conta digital PF e PJ e por produtos digitais como o boleto parcelado. Ao assumir a diretoria, incorporei também crédito e cobrança, que depois saíram do meu escopo.
 
-• Atendimento e CX: evolução da operação omnichannel (chat, WhatsApp, chatbot e bots) para absorver o escopo ampliado de produtos, crédito e cobrança.
-• Canal de vendas digital: criação do Canal Leilão CTPS Digital de ponta a ponta, da jornada do trabalhador à esteira de crédito (capacidade de pagamento, modelagem de risco, política, motor de decisão e governança regulatória). R$ 1,5 milhão por mês nos primeiros cinco meses e capacidade para 2.000 propostas por dia.
-• Conta digital PF e PJ: desenho dos fluxos e PMO de implantação, com a conta PF integrada ao programa de fidelidade em milhas.
-• Cobrança e carteira: framework de cobrança que reduziu a PDD de 3% para 1,5%, com picos de 0,6%, e recuperou R$ 700 mil em operações com problemas de lastro. Acompanhamento de carteira originada de mais de R$ 200 milhões junto à gestora do fundo.
-• Automação: processo de cancelamento do boleto parcelado redesenhado e automatizado em n8n.
-• Governança e mercado: integração de produto, crédito, cobrança, atendimento e analytics no COMEX, apresentação de resultados a investidores e representação da PaGol na Associação Brasileira de Crédito Digital (ABCD).
+• Atendimento e CX: evoluí a operação omnichannel (chat, WhatsApp, chatbot e bots) para sustentar o escopo ampliado da diretoria.
+• Canal de vendas digital: criei do zero o Canal Leilão CTPS Digital. O projeto foi da jornada do trabalhador à esteira de crédito, cobrindo capacidade de pagamento, modelagem de risco, política, motor de decisão e governança regulatória. Em cinco meses, R$ 1,5 milhão por mês.
+• Conta digital PF e PJ: conduzo o desenho dos fluxos e o PMO de implantação, com a conta PF integrada desde a origem ao programa de milhas.
+• Cobrança: sob minha gestão, a PDD caiu de 3% para 1,5%, com picos de 0,6%. Também recuperamos R$ 700 mil em operações com problemas de lastro e acompanhei, junto à gestora do fundo, mais de R$ 200 milhões em carteira originada.
+• Automação: redesenhei o cancelamento do boleto parcelado e o automatizei em n8n.
+• Governança e mercado: levo produto, atendimento e analytics para a pauta do COMEX, apresento resultados a investidores e represento a PaGol na Associação Brasileira de Crédito Digital (ABCD).
 ```
 
 ## PaGol - Head of Customer Service (mar 2023 - jun 2025)
