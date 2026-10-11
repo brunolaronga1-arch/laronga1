@@ -1,0 +1,79 @@
+{
+  "version": "1.0-pt-BR",
+  "total": 100,
+  "note": "Doze itens. Avalie cada um com honestidade: nota generosa não ajuda ninguém. A maioria dos perfis fica entre 30 e 49 na primeira passada.",
+  "items": [
+    {
+      "id": "headline",
+      "label": "título",
+      "points": 12,
+      "full_marks": "Diz quem você ajuda e o que muda para essa pessoa, traz uma prova e não é o cargo. Usa os 220 caracteres, não 60."
+    },
+    {
+      "id": "about_open",
+      "label": "sobre, 2 primeiras linhas",
+      "points": 10,
+      "full_marks": "As duas primeiras linhas (tudo o que aparece antes do 'ver mais') nomeiam o problema do leitor. Nada de 'apaixonado por', bio em terceira pessoa ou começar com o próprio nome."
+    },
+    {
+      "id": "about_body",
+      "label": "sobre, corpo",
+      "points": 10,
+      "full_marks": "Escrito para uma pessoa, falando com 'você': o problema dela, o que você faz, um número como prova, o que fazer em seguida. Menos de 1.400 caracteres."
+    },
+    {
+      "id": "featured",
+      "label": "destaques",
+      "points": 8,
+      "full_marks": "Três itens nos destaques: o post com melhor desempenho, uma prova e o jeito de entrar em contato. Nada vazio, nada desatualizado."
+    },
+    {
+      "id": "banner",
+      "label": "capa",
+      "points": 6,
+      "full_marks": "Uma linha de posicionamento e um jeito de te encontrar. Não é o degradê padrão nem foto de banco de imagem de cidade."
+    },
+    {
+      "id": "photo",
+      "label": "foto",
+      "points": 6,
+      "full_marks": "O rosto ocupa uns 60% do quadro, olhos visíveis, foto dos últimos dois anos, fundo que não distrai."
+    },
+    {
+      "id": "current_role",
+      "label": "cargo atual",
+      "points": 10,
+      "full_marks": "Uma linha de escopo, depois dois a três bullets de resultado com números. Atribuições não são resultados."
+    },
+    {
+      "id": "experience_depth",
+      "label": "experiências anteriores",
+      "points": 8,
+      "full_marks": "Os dois últimos cargos detalhados, tudo com mais de dez anos reduzido a uma linha cada."
+    },
+    {
+      "id": "skills",
+      "label": "competências",
+      "points": 6,
+      "full_marks": "As três principais competências são as três pelas quais você quer ser contratado, e têm recomendações. As outras 47 são ruído."
+    },
+    {
+      "id": "recommendations",
+      "label": "recomendações",
+      "points": 8,
+      "full_marks": "Pelo menos três recebidas nos últimos dois anos, cada uma citando um resultado específico em vez de qualidades pessoais."
+    },
+    {
+      "id": "activity",
+      "label": "atividade",
+      "points": 10,
+      "full_marks": "Postou ou comentou nos últimos sete dias. Atividade vazia passa a impressão de perfil abandonado."
+    },
+    {
+      "id": "contact",
+      "label": "contato",
+      "points": 6,
+      "full_marks": "URL personalizada, e-mail ou link de agendamento funcionando nas informações de contato, e o mesmo @ das outras redes."
+    }
+  ]
+}
