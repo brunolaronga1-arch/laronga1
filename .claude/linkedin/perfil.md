@@ -31,7 +31,9 @@ Trato o atendimento como alavanca de negócio, com retenção, receita e eficiê
 
 Alguns marcos: R$ 50,4 milhões em receita em 2024, custo de atendimento 67% menor e um canal digital de vendas criado do zero que chegou a R$ 1,5 milhão por mês.
 
-Atuo na interface com investidores, mercado e lideranças regionais: apresento resultados a investidores, represento a PaGol na Associação Brasileira de Crédito Digital e, no Citi, representei o Brasil em fóruns da América Latina.
+Atuo na interface com investidores e mercado: apresento resultados a investidores e represento a PaGol na Associação Brasileira de Crédito Digital (ABCD).
+
+Experiência internacional: no Citi, representei o Brasil em fóruns regionais da América Latina, na Argentina, e levei práticas de vendas para a operação da Colômbia, com +44% de conversão.
 
 Inglês avançado e espanhol intermediário. MBA ESPM em Gestão Estratégica de Mercados.
 ```
