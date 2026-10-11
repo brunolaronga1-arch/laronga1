@@ -512,16 +512,6 @@
       "family": "substantivos"
     },
     {
-      "find": "jornada",
-      "replace": "trajetória",
-      "family": "substantivos"
-    },
-    {
-      "find": "jornadas",
-      "replace": "trajetórias",
-      "family": "substantivos"
-    },
-    {
       "find": "ecossistema",
       "replace": "sistema",
       "family": "substantivos"
