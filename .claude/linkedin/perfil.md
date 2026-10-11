@@ -7,7 +7,7 @@ Alvo: recrutadores de vagas de Head, Superintendente e Diretor de Atendimento ao
 ## Título (opção recomendada)
 
 ```
-Diretor de Atendimento ao Cliente, CX e Canais de Vendas | Customer Service e Customer Experience em bancos e fintechs | Custo de atendimento -67% e qualidade de 20% para 80% | R$ 50 mi em receita
+Diretor de Atendimento ao Cliente, CX e Canais de Vendas | Customer Service e Customer Experience | Estratégia do ciclo de vida do cliente | Omnichannel, IA e Automação | Citi, Itaú, Santander e PaGol
 ```
 
 ## Título (alternativa)
