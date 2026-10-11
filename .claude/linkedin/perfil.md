@@ -50,7 +50,7 @@ Contato: brunolaronga1@gmail.com
 ## PaGol - Director of Products, Customer Service & CX (jun 2025 - atual)
 
 ```
-Membro do COMEX. Respondo, na horizontal, por atendimento e antifraude, que servem todas as linhas de negócio, e, na vertical, pela conta digital PF e PJ e por produtos digitais como o boleto parcelado. Nesta função, também liderei crédito e cobrança.
+Membro do COMEX. Respondo, na horizontal, por atendimento e antifraude, que servem todas as linhas de negócio, e, na vertical, pela conta digital PF e PJ e por produtos digitais como o boleto parcelado. Ao assumir a diretoria, incorporei também crédito e cobrança, que depois saíram do meu escopo.
 
 • Atendimento e CX: evolução da operação omnichannel (chat, WhatsApp, chatbot e bots) para absorver o escopo ampliado de produtos, crédito e cobrança.
 • Canal de vendas digital: criação do Canal Leilão CTPS Digital de ponta a ponta, da jornada do trabalhador à esteira de crédito (capacidade de pagamento, modelagem de risco, política, motor de decisão e governança regulatória). R$ 1,5 milhão por mês nos primeiros cinco meses e capacidade para 2.000 propostas por dia.
@@ -68,7 +68,7 @@ Membro do COMEX, responsável por Customer Service, Customer Experience, Vendas 
 • Receita: R$ 50,4 milhões em 2024. Contribuição direta via growth e vendas, com mais de R$ 3 milhões por mês em vendas de crédito pelo canal de atendimento especializado.
 • Eficiência: custo de atendimento 67% menor. Saiu de R$ 300 mil para R$ 100 mil por mês com a consolidação de 2 BPOs em 1, chatbot, automação de processos e revisão operacional.
 • Qualidade: de 20% para 80% em cinco meses, sem aumentar o headcount. Reclame Aqui de 5 para 8.
-• Omnichannel: 7 canais integrados com visão única do cliente em CRM centralizado, procedimentos padronizados e atendimento 24x7 aderente ao SAC, sem aumento proporcional de custo.
+• Omnichannel: 7 canais integrados com visão única do cliente em CRM centralizado, 60 procedimentos padronizados, com mais de 500 divulgações e atualizações, e atendimento 24x7 aderente ao SAC, sem aumento proporcional de custo.
 • Chat no app: 51% das interações retidas no canal. Custo por contato 20% menor.
 • WhatsApp para vendas e pós-venda, do desenho da jornada às integrações sistêmicas e ao treinamento da central.
 • Crédito do Trabalhador: jornada de vendas, operação comercial e régua de comunicação no canal próprio, integradas à esteira de crédito.
