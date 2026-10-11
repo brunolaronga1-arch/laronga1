@@ -9,14 +9,17 @@ skills de LinkedIn deste projeto leem este arquivo. Itens marcados com
 
 ## Quem eu sou
 
-- **Nome:** (a confirmar)
-- **O que eu faço, numa frase:** (a confirmar) Pelos posts: trabalho com
-  vendas, operação comercial e experiência do cliente, olhando para
-  processo, dados e gestão.
-- **Para quem eu escrevo:** (a confirmar) Pelos posts: líderes e gestores
-  comerciais, profissionais de vendas, SalesOps e CX, e quem se interessa
-  por gestão e carreira.
-- **O que eu vendo:** (a confirmar)
+- **Nome:** Bruno Laronga
+- **O que eu faço, numa frase:** Diretor de Produtos, Customer Service e CX
+  na PaGol: produtos financeiros (crédito, conta digital PF e PJ, conta PF
+  integrada a milhas), atendimento e experiência do cliente, com mais de 20
+  anos em bancos e fintechs (Citi, Itaú Unibanco, Santander, PaGol).
+- **Para quem eu escrevo:** recrutadores e lideranças de bancos e fintechs,
+  executivos de produto, CX, atendimento e vendas.
+- **Objetivo no LinkedIn:** posicionamento executivo. A busca por emprego
+  está visível só para recrutadores: **nunca** mencionar busca de
+  oportunidades em post ou texto público.
+- **Em formação:** AI Journey (StartSe).
 
 ## Como eu soo
 
