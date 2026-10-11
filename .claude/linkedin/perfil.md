@@ -52,7 +52,7 @@ Contato: brunolaronga1@gmail.com
 ```
 Atuação focada na transformação de operações de atendimento e produtos financeiros, conectando experiência do cliente, digitalização, eficiência operacional e resultados de negócio. Membro do COMEX, respondo na horizontal por atendimento e antifraude e, na vertical, pela conta digital PF e PJ e por produtos digitais como o boleto parcelado. Ao assumir a diretoria, incorporei também crédito e cobrança, que depois saíram do meu escopo.
 
-• Produtos Financeiros e Crédito: lancei o Crédito do Trabalhador, com jornadas, políticas, scoring e governança regulatória para canais próprios e para o leilão da CTPS Digital. O Canal Leilão CTPS Digital, que criei do zero, chegou a R$ 1,5 milhão por mês em cinco meses. Capacidade: 2.000 propostas por dia.
+• Produtos Financeiros e Crédito: liderei o lançamento do Crédito do Trabalhador, com jornadas, políticas, scoring e governança regulatória para canais próprios e para o leilão da CTPS Digital. O Canal Leilão CTPS Digital, que criei do zero, chegou a R$ 1,5 milhão por mês em cinco meses. Capacidade: 2.000 propostas por dia.
 • Cobrança e Recuperação: implantei um novo framework de estratégias de cobrança e recuperação. A PDD caiu de 3% para 1,5%. Picos de 0,6%.
 • Carteira de FIDC: mais de R$ 200 milhões originados, acompanhados junto à gestora do fundo, e R$ 700 mil recuperados em operações com problemas de lastro.
 • Conta Digital PF e PJ: desenho dos fluxos e PMO de implantação. A conta PF nasce integrada ao programa de milhas.
