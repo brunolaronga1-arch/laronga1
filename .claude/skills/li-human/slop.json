@@ -477,11 +477,6 @@
       "family": "adjetivos"
     },
     {
-      "find": "de ponta",
-      "replace": "atual",
-      "family": "adjetivos"
-    },
-    {
       "find": "impactante",
       "replace": "forte",
       "family": "adjetivos"
@@ -740,6 +735,11 @@
       "find": "tive a oportunidade de",
       "replace": "pude",
       "family": "conectivos"
+    },
+    {
+      "find": "tecnologia de ponta",
+      "replace": "tecnologia atual",
+      "family": "adjetivos"
     }
   ],
   "phrases": [
