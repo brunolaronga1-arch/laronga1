@@ -10,10 +10,15 @@ skills de LinkedIn deste projeto leem este arquivo. Itens marcados com
 ## Quem eu sou
 
 - **Nome:** Bruno Laronga
-- **O que eu faço, numa frase:** Diretor de Produtos, Customer Service e CX
-  na PaGol: produtos financeiros (crédito, conta digital PF e PJ, conta PF
-  integrada a milhas), atendimento e experiência do cliente, com mais de 20
-  anos em bancos e fintechs (Citi, Itaú Unibanco, Santander, PaGol).
+- **O que eu faço, numa frase:** executivo de atendimento e experiência do
+  cliente: canais, funil de vendas e jornada do cliente, para qualidade e
+  para vendas. Ao longo da carreira absorvi vendas, canais digitais,
+  produtos financeiros (crédito, conta digital PF e PJ com milhas), crédito
+  e cobrança, o que me deu visão da estratégia à execução. Hoje Diretor de
+  Produtos, Customer Service e CX na PaGol; mais de 20 anos em Citi, Itaú
+  Unibanco, Santander e PaGol.
+- **Núcleo dos posts:** atendimento, CX, canais, funil e jornada. Produtos,
+  crédito e cobrança entram como escopo ampliado, não como tema principal.
 - **Para quem eu escrevo:** recrutadores e lideranças de bancos e fintechs,
   executivos de produto, CX, atendimento e vendas.
 - **Objetivo no LinkedIn:** posicionamento executivo. A busca por emprego
