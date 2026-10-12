@@ -21,18 +21,19 @@ Head de Customer Service e CX | Atendimento ao cliente, canais de vendas e omnic
 ```
 Executivo de Customer Service, Customer Experience (CX) e canais de vendas, com mais de 20 anos em serviços financeiros: Citi, Itaú Unibanco, Santander e PaGol.
 
-Meu diferencial é a visão integrada do ciclo de vida do cliente, da aquisição ao pós-venda, numa estratégia única e executável. Construí essa visão de dentro para fora: comecei no contact center e fui ganhando escopo (vendas, canais digitais, produtos, crédito, cobrança e antifraude) até a diretoria e o COMEX da PaGol. Hoje respondo por atendimento e antifraude e pelas verticais de conta digital PF e PJ e produtos digitais.
+Meu diferencial é a visão integrada do ciclo de vida do cliente, da aquisição ao pós-venda, numa estratégia única e executável. Comecei no contact center e fui ganhando escopo (vendas, canais digitais, produtos, crédito, cobrança e antifraude) até a diretoria e o COMEX da PaGol. Hoje respondo por atendimento e antifraude e pelas verticais de conta digital PF e PJ e produtos digitais.
 
 Áreas de atuação:
-• Customer Service e contact center: operação omnichannel, gestão de BPOs e SLAs, autoatendimento, IA e automação, redução de cost-to-serve.
+• Customer Service e contact center: operação omnichannel, gestão de BPOs e SLAs, autoatendimento e redução de cost-to-serve.
 • Customer Experience: jornada do cliente, Voz do Cliente (VoC), NPS e CSAT, redução de atrito e retenção da base.
-• Canais de vendas: atendimento como canal de receita, cross-sell e Next Best Offer, canais digitais e conversão de funil.
+• Canais de vendas: atendimento como canal de receita, cross-sell, Next Best Offer e conversão de funil.
+• Produtos financeiros, crédito e cobrança: conta digital PF e PJ, boleto parcelado, Crédito do Trabalhador, política de crédito e scoring, cobrança, recuperação e carteira de FIDC.
 • Gestão: governança, OKRs e analytics, gestão orçamentária, liderança de times próprios e redes de parceiros.
 
 Marcos de carreira:
 • Receita: R$ 50,4 milhões em 2024 na PaGol e um canal digital de vendas criado do zero que chegou a R$ 1,5 milhão por mês.
 • Eficiência e qualidade: custo de atendimento 67% menor, qualidade de 20% para 80% em cinco meses e nota do Reclame Aqui de 5 para 8.
-• Conversão: +47% em vendas no Itaú Unibanco, onde também implantei speech analytics em 100% das interações. No Santander, a estratégia de Multioferta triplicou as oportunidades de venda.
+• Conversão: +47% em vendas no Itaú Unibanco, com speech analytics em 100% das interações. No Santander, a estratégia de Multioferta triplicou as oportunidades de venda.
 • Crédito e cobrança: carteira originada de mais de R$ 200 milhões e PDD reduzida de 3% para 1,5%.
 • Escala: redes com mais de 300 profissionais e orçamento de R$ 30 milhões por ano.
 
@@ -40,9 +41,9 @@ Na PaGol, apresento resultados a investidores e represento a empresa na Associa�
 
 Experiência internacional: no Citi, representei o Brasil em fóruns regionais da América Latina, na Argentina, e levei práticas de vendas para a operação da Colômbia, com +44% de conversão. Programa de líderes do Citi em Fort Lauderdale (EUA).
 
-IA na prática: uso GPT, Claude e Gemini no dia a dia, prototipo fluxos de negócio no Lovable e automatizei em n8n o processo de cancelamento do boleto parcelado. Cursando AI Journey (StartSe).
+IA na prática: uso GPT, Claude e Gemini no dia a dia, prototipo no Lovable e automatizo processos em n8n. Cursando AI Journey (StartSe).
 
-Formação: Publicidade e Propaganda (Metodista), MBA em Gestão Estratégica de Mercados (ESPM) e cursos de growth, canais de vendas e remuneração variável (G4 Educação). Inglês avançado e espanhol intermediário.
+Formação: Publicidade e Propaganda (Metodista), MBA em Gestão Estratégica de Mercados (ESPM) e cursos no G4 Educação. Inglês avançado e espanhol intermediário.
 
 Contato: brunolaronga1@gmail.com
 ```
