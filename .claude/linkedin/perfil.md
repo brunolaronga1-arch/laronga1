@@ -27,7 +27,8 @@ Meu diferencial é a visão integrada do ciclo de vida do cliente, da aquisiçã
 • Customer Service e contact center: operação omnichannel, gestão de BPOs e SLAs, autoatendimento e redução de cost-to-serve.
 • Customer Experience: jornada do cliente, Voz do Cliente (VoC), NPS e CSAT, redução de atrito e retenção da base.
 • Canais de vendas: atendimento como canal de receita, cross-sell, Next Best Offer e conversão de funil.
-• Produtos financeiros, crédito e cobrança: conta digital PF e PJ, boleto parcelado, Crédito do Trabalhador, política de crédito e scoring, cobrança, recuperação e carteira de FIDC.
+• Produtos financeiros e crédito: conta digital PF e PJ, boleto parcelado, Crédito do Trabalhador, política de crédito e scoring.
+• Cobrança e recuperação: estratégias de cobrança, gestão de PDD e carteira de FIDC.
 • Gestão: governança, OKRs e analytics, gestão orçamentária, liderança de times próprios e redes de parceiros.
 
 Marcos de carreira:
