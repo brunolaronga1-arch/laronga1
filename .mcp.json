@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "carrosseia": {
+      "type": "http",
+      "url": "https://carrosseia.com.br/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${CARROSSEIA_TOKEN}"
+      }
+    }
+  }
+}
