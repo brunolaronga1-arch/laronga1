@@ -1,6 +1,6 @@
 # Simulação 02: programa de parceria, rodada com gpt-4.1
 
-**Data:** 17/11/2026 · **Modelo:** gpt-4.1 (OpenAI) · **Semente e pedido:** os mesmos da simulação 01
+**Data:** 17/11/2026 · **Modelo:** gpt-4.1 (OpenAI) · **Semente e pedido:** os mesmos da simulação 01  
 **Mudanças em relação à 01:** modelo mais forte, 30 rodadas (antes 20), só a rede estilo Reddit.
 
 ## Números
